@@ -1,0 +1,8 @@
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\interfaceLab\interfaceLab\bin\Debug\interfaceLab.exe.config
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\interfaceLab\interfaceLab\bin\Debug\interfaceLab.exe
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\interfaceLab\interfaceLab\bin\Debug\interfaceLab.pdb
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\interfaceLab\interfaceLab\obj\Debug\interfaceLab.csproj.AssemblyReference.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\interfaceLab\interfaceLab\obj\Debug\interfaceLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\interfaceLab\interfaceLab\obj\Debug\interfaceLab.csproj.CoreCompileInputs.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\interfaceLab\interfaceLab\obj\Debug\interfaceLab.exe
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\interfaceLab\interfaceLab\obj\Debug\interfaceLab.pdb
